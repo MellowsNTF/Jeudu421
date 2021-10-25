@@ -1,0 +1,14 @@
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.csproj.AssemblyReference.cache
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.AssemblyInfoInputs.cache
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.AssemblyInfo.cs
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.csproj.CoreCompileInputs.cache
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.exe
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.deps.json
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.runtimeconfig.json
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.runtimeconfig.dev.json
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.dll
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\bin\Debug\netcoreapp3.1\Jeu du 421.pdb
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.dll
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.pdb
+C:\Users\riswa\source\repos\Jeu du 421\Jeu du 421\obj\Debug\netcoreapp3.1\Jeu du 421.genruntimeconfig.cache
